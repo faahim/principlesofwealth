@@ -4,7 +4,7 @@ const cssnano = require('css-mqpacker') // super compressor
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.prcplofwlth.netlify.com`,
+    siteUrl: `https://prcplofwlth.netlify.com`,
     title: `Principles of wealth`,
     description: `Because reading is faster than listening`,
     twitter_handle: `@flowen_nl`,
